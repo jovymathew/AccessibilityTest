@@ -1,0 +1,10 @@
+[Oo]bj/
+[Bb]in/
+.vs/
+.DS_Store
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+# The packages folder can be ignored because of Package Restore
+**/packages/*
